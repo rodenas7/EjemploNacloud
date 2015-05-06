@@ -11,6 +11,7 @@ package nacl;
  */
 public class Nacl {
  int h;
+ int j;
     /**
      * @param args the command line arguments
      */
